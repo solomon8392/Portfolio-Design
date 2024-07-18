@@ -1,11 +1,6 @@
-HomePage
-
-
-
-
 import "../App.css";
-// import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-// import { faPaperPlane } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faPaperPlane } from "@fortawesome/free-solid-svg-icons";
 const HomePage = () => {
   return (
     <div className="md:top-32 top-10 w-[100%] relative md:px-9 px-3 overflow-y-auto h-[60%]">
