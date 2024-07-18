@@ -1,9 +1,7 @@
  
-AboutPage
-
-
-import "./App.css";
-function AboutPage() {
+import React from "react";
+import "../App.css";
+const AboutPage = () => {
   return (
     <div className="md:top-32 top-10 relative md:px-9 px-3 overflow-y-auto h-[60%] w-[100%]">
      <div>

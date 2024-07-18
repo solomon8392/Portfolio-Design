@@ -3,10 +3,10 @@ HomePage
 
 
 
-import "./App.css";
+import "../App.css";
 // import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 // import { faPaperPlane } from "@fortawesome/free-solid-svg-icons";
-function HomePage() {
+const HomePage = () => {
   return (
     <div className="md:top-32 top-10 w-[100%] relative md:px-9 px-3 overflow-y-auto h-[60%]">
       <h1 className="font-montserrat md:text-[40px] text-[16px] font-bold text-[#d3d2d2] mb-2">
